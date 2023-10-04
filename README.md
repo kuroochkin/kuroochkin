@@ -10,4 +10,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuroochkin&show_icons=true&locale=en" alt="kuroochkin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuroochkin&" alt="kuroochkin" /></p>
