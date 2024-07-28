@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vlad</h1>
-<h3 align="center">I'm Junior-developer from Russia, Moscow</h3>
+<h3 align="center">I'm Middle-developer from Russia, Moscow</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
