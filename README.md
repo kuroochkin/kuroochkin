@@ -3,10 +3,6 @@
   Backend-focused software engineer building reliable products, distributed systems, and production-grade platform components with .NET
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kuroochkin&label=Profile%20views&color=0e75b6&style=flat" alt="kuroochkin" />
-</p>
-
 ---
 
 ### About me
@@ -64,7 +60,5 @@
 <p>
   You can add here:
   <br />
-  - Telegram
-  <br />
-  - Email
+  - Email: uoldiz111@gmail.com
 </p>
